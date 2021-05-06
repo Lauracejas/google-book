@@ -1,0 +1,10 @@
+.navbar {
+    background-color: #c71190;
+    margin-bottom: 10px;
+}
+.collapse > ul > li {
+    list-style: none;
+    display: inline-block;
+    justify-content: space-between;
+    margin: 6px
+}
